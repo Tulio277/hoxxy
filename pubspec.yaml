@@ -39,9 +39,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
    - assets/imagens/telaInicial.jpeg
-   - assets/imagens/logo.jpeg
-   - assets/imagens/logoBranca.png
-   - assets/imagens/logo-branca.png
+   - assets/imagens/logomarca.jpeg
+   - assets/imagens/fundoFormulario.jpeg
+   - assets/imagens/imageCadastro.jpeg
    - assets/imagens/imagemLogo.jpeg
 
 
