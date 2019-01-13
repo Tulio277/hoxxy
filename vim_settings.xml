@@ -2,9 +2,42 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroDireciona.dart" timestamp="1547385502673">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaInicial.dart" timestamp="1547385125240">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroAgente.dart" timestamp="1547385720583">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaRecuperaConta.dart" timestamp="1547385187327">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="105" column="0" filename="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaRecuperaConta.dart" />
+      <jump line="106" column="0" filename="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaRecuperaConta.dart" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmhveHh5L2FwcFVpL3RlbGFSZWN1cGVyYWNhb0NvbnRhLmRhcnQnOwoK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -21,6 +54,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
