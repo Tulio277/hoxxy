@@ -28,6 +28,9 @@
         <mark key="]" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
+      <file name="/fragment.java" timestamp="1547504835935">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="105" column="0" filename="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaRecuperaConta.dart" />
