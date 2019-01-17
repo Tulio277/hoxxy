@@ -53,7 +53,7 @@
       <file name="/fragment.java" timestamp="1547680443640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/jsonehttp/lib/main.dart" timestamp="1547766644930">
+      <file name="$USER_HOME$/IdeaProjects/jsonehttp/lib/main.dart" timestamp="1547767751797">
         <mark key="[" line="1" column="0" />
       </file>
     </filemarks>
@@ -122,6 +122,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
