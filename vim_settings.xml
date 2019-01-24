@@ -9,10 +9,10 @@
       <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/main.dart" timestamp="1547396316666">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/jsonehttp/pubspec.yaml" timestamp="1547768773289">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/jsonehttp/pubspec.yaml" timestamp="1548370192895">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled2/pubspec.yaml" timestamp="1547505609448">
         <mark key="[" line="39" column="10" />
@@ -83,8 +83,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KE15QXBwKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KE15QXBwKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgbmV3IE15QXBwKCkK</text>
@@ -105,7 +105,7 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmhveHh5L2FwcFVpL3RlbGFSZWN1cGVyYWNhb0NvbnRhLmRhcnQnOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text />
       </register>
     </registers>
     <search>
