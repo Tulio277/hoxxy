@@ -14,6 +14,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/jsonhttp2/pubspec.yaml" timestamp="1548371962532">
+        <mark key="[" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled2/pubspec.yaml" timestamp="1547505609448">
         <mark key="[" line="39" column="10" />
         <mark key="]" line="39" column="10" />
@@ -47,6 +50,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/jsonhttp2/lib/main.dart" timestamp="1548457546613" />
       <file name="$USER_HOME$/IdeaProjects/imc2/pubspec.yaml" timestamp="1547507335727">
         <mark key="[" line="24" column="16" />
       </file>
@@ -84,7 +88,7 @@
         <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KE15QXBwKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgbmV3IE15QXBwKCkK</text>
@@ -105,7 +109,7 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmhveHh5L2FwcFVpL3RlbGFSZWN1cGVyYWNhb0NvbnRhLmRhcnQnOwoK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
