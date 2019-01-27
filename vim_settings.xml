@@ -3,21 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroDireciona.dart" timestamp="1547385502673">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/main.dart" timestamp="1547396316666">
-        <mark key="[" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/jsonehttp/pubspec.yaml" timestamp="1548370192895">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/jsonhttp2/pubspec.yaml" timestamp="1548621092125">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/outrastelas/tela_cidade.dart" timestamp="1548626245449">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled2/pubspec.yaml" timestamp="1547505609448">
         <mark key="[" line="39" column="10" />
@@ -26,6 +18,47 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/main.dart" timestamp="1548537820808">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/android/app/src/main/java/com/example/hooxy2/MainActivity.java" timestamp="1547393273176">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled2/lib/main.dart" timestamp="1547506333214">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled4/lib/main.dart" timestamp="1547764924784">
+        <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/imc2/lib/ui/home.dart" timestamp="1547681474253">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroAgente.dart" timestamp="1547385720583">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaRecuperaConta.dart" timestamp="1547385187327">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/jsonehttp/lib/main.dart" timestamp="1548287073036">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroDireciona.dart" timestamp="1547385502673">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/main.dart" timestamp="1547396316666">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/jsonhttp2/pubspec.yaml" timestamp="1548621092125">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaInicial.dart" timestamp="1547385125240">
         <mark key="[" line="3" column="0" />
@@ -41,25 +74,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hooxy2/android/app/src/main/java/com/example/hooxy2/MainActivity.java" timestamp="1547393273176">
-        <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled2/lib/main.dart" timestamp="1547506333214">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled4/lib/main.dart" timestamp="1547764924784">
-        <mark key="'" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/transacoes/pega_Clima.dart" timestamp="1548622046231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/pubspec.yaml" timestamp="1548621142879">
         <mark key="[" line="24" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/imc2/lib/ui/home.dart" timestamp="1547681474253">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jsonhttp2/lib/main.dart" timestamp="1548520675227">
         <mark key="[" line="40" column="23" />
@@ -75,28 +94,12 @@
       <file name="$USER_HOME$/IdeaProjects/imc2/pubspec.yaml" timestamp="1547507335727">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroAgente.dart" timestamp="1547385720583">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaRecuperaConta.dart" timestamp="1547385187327">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/ui/klimatico.dart" timestamp="1548624259410">
-        <mark key="]" line="55" column="1" />
-        <mark key="." line="55" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/ui/klimatico.dart" timestamp="1548626530291">
+        <mark key="]" line="62" column="1" />
+        <mark key="." line="62" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1547680443640">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/jsonehttp/lib/main.dart" timestamp="1548287073036">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
       </file>
     </filemarks>
     <jumps>
