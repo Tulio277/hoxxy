@@ -75,8 +75,10 @@
         <mark key="]" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/ui/klimatico.dart" timestamp="1548617673033">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/ui/klimatico.dart" timestamp="1548618397410">
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="44" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1547680443640">
         <mark key="[" line="0" column="0" />
@@ -102,7 +104,7 @@
         <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KE15QXBwKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgbmV3IE15QXBwKCkK</text>
@@ -123,7 +125,7 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmhveHh5L2FwcFVpL3RlbGFSZWN1cGVyYWNhb0NvbnRhLmRhcnQnOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
     </registers>
     <search>
