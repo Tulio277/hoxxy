@@ -63,6 +63,11 @@
       <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/main.dart" timestamp="1547396316666">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telaInicial.dart" timestamp="1548890122016">
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="31" />
+        <mark key="." line="85" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/jsonhttp2/pubspec.yaml" timestamp="1548621092125">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -128,8 +133,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBDb250YWluZXIoKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb250YWluZXIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KE15QXBwKCkpOwo=</text>
@@ -153,7 +158,7 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmhveHh5L2FwcFVpL3RlbGFSZWN1cGVyYWNhb0NvbnRhLmRhcnQnOwoK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>n</text>
       </register>
     </registers>
     <search>
@@ -199,6 +204,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
