@@ -33,10 +33,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/build.gradle" timestamp="1549114221657">
-        <mark key="[" line="60" column="61" />
-        <mark key="]" line="60" column="1" />
-        <mark key="." line="60" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/build.gradle" timestamp="1549117050172">
+        <mark key="[" line="62" column="56" />
+        <mark key="]" line="62" column="56" />
+        <mark key="." line="62" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/imc2/lib/ui/home.dart" timestamp="1547681474253">
         <mark key="[" line="1" column="0" />
@@ -48,6 +48,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" timestamp="1549117372553" />
       <file name="$USER_HOME$/IdeaProjects/hooxy2/lib/UI/telaCadastroAgente.dart" timestamp="1547385720583">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -58,8 +59,8 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/build.gradle" timestamp="1548971211854">
-        <mark key="[" line="8" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/build.gradle" timestamp="1549117020944">
+        <mark key="[" line="7" column="56" />
         <mark key="]" line="7" column="55" />
         <mark key="." line="7" column="55" />
       </file>
@@ -92,8 +93,8 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/pubspec.yaml" timestamp="1548968184630">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/pubspec.yaml" timestamp="1549117327872">
+        <mark key="[" line="21" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
@@ -108,8 +109,11 @@
         <mark key="]" line="40" column="23" />
         <mark key="." line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telacadastroCliente.dart" timestamp="1548975655429">
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telacadastroCliente.dart" timestamp="1549117187487">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
         <mark key="^" line="8" column="0" />
+        <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/util/util.dart" timestamp="1548627797111">
         <mark key="[" line="1" column="1" />
@@ -117,6 +121,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/local.properties" timestamp="1549116601380" />
       <file name="$USER_HOME$/IdeaProjects/imc2/pubspec.yaml" timestamp="1547507335727">
         <mark key="[" line="24" column="16" />
       </file>
@@ -147,7 +152,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiBDb250YWluZXIoKTsK</text>
@@ -174,7 +179,7 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmhveHh5L2FwcFVpL3RlbGFSZWN1cGVyYWNhb0NvbnRhLmRhcnQnOwoK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>;</text>
       </register>
     </registers>
     <search>
