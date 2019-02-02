@@ -33,8 +33,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/build.gradle" timestamp="1548967470290">
-        <mark key="[" line="60" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/build.gradle" timestamp="1549114221657">
+        <mark key="[" line="60" column="61" />
         <mark key="]" line="60" column="1" />
         <mark key="." line="60" column="1" />
       </file>
@@ -111,7 +111,6 @@
       <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telacadastroCliente.dart" timestamp="1548975655429">
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/database/cadastrocliente.dart" timestamp="1548975257839" />
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/util/util.dart" timestamp="1548627797111">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="0" column="5" />
@@ -127,7 +126,7 @@
         <mark key="." line="80" column="30" />
         <mark key="^" line="80" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1547680443640">
+      <file name="/fragment.java" timestamp="1548975950297">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
