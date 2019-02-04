@@ -8,6 +8,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/src/main/java/com/example/hoxxy/MainActivity.java" timestamp="1549233020563">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/outrastelas/tela_cidade.dart" timestamp="1548973528024">
         <mark key="[" line="0" column="1" />
       </file>
@@ -98,10 +103,10 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/pubspec.yaml" timestamp="1549232911225">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="16" />
-        <mark key="." line="26" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/pubspec.yaml" timestamp="1549320962597">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
         <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/transacoes/pega_Clima.dart" timestamp="1548622046231">
@@ -162,7 +167,7 @@
         <text encoding="base64">ICBmaXJlYmFzZV9kYXRhYmFzZTogXjIuMC4wCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>:</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cg==</text>
@@ -189,7 +194,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>:</text>
       </register>
     </registers>
     <search>
