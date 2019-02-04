@@ -120,11 +120,11 @@
         <mark key="]" line="40" column="23" />
         <mark key="." line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telacadastroCliente.dart" timestamp="1549117187487">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="3" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telacadastroCliente.dart" timestamp="1549323365884">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/util/util.dart" timestamp="1548627797111">
         <mark key="[" line="1" column="1" />
@@ -161,13 +161,14 @@
       <jump line="15" column="22" filename="$USER_HOME$/IdeaProjects/jsonhttp2/lib/main.dart" />
       <jump line="40" column="27" filename="$USER_HOME$/IdeaProjects/lergravar/lib/main.dart" />
       <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/lergravar/lib/main.dart" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/hoxxy/lib/appUi/telacadastroCliente.dart" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICBmaXJlYmFzZV9kYXRhYmFzZTogXjIuMC4wCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>f</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cg==</text>
@@ -194,7 +195,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>f</text>
       </register>
     </registers>
     <search>
