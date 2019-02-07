@@ -13,6 +13,11 @@
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testefirebase/android/build.gradle" timestamp="1549500046221">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="7" column="56" />
+        <mark key="." line="7" column="56" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/outrastelas/tela_cidade.dart" timestamp="1548973528024">
         <mark key="[" line="0" column="1" />
       </file>
@@ -33,10 +38,16 @@
       <file name="$USER_HOME$/IdeaProjects/untitled2/lib/main.dart" timestamp="1547506333214">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testefirebase/android/app/src/main/AndroidManifest.xml" timestamp="1549499886270" />
       <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/src/main/AndroidManifest.xml" timestamp="1548967126769">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testefirebase/android/app/build.gradle" timestamp="1549500102496">
+        <mark key="[" line="59" column="84" />
+        <mark key="]" line="59" column="84" />
+        <mark key="." line="59" column="84" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hoxxy/android/app/build.gradle" timestamp="1549232642686">
         <mark key="[" line="56" column="14" />
@@ -103,6 +114,11 @@
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testefirebase/pubspec.yaml" timestamp="1549500467167">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/hoxxy/pubspec.yaml" timestamp="1549320962597">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="15" column="9" />
@@ -111,6 +127,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/lib/transacoes/pega_Clima.dart" timestamp="1548622046231">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testefirebase/lib/main.dart" timestamp="1549500891728">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/appprevisaotempo/pubspec.yaml" timestamp="1548621142879">
         <mark key="[" line="24" column="16" />
@@ -168,7 +189,7 @@
         <text encoding="base64">ICBmaXJlYmFzZV9kYXRhYmFzZTogXjIuMC4wCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cg==</text>
@@ -195,7 +216,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text />
       </register>
     </registers>
     <search>
